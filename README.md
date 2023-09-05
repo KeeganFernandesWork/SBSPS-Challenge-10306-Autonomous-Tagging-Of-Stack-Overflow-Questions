@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/smartinternz02/SBSPS-Challenge-10306-Autonomous-Tagging-Of-Stack-Overflow-Questions">
-    <img src="https://github.com/smartinternz02/SBSPS-Challenge-10306-Autonomous-Tagging-Of-Stack-Overflow-Questions/blob/b582f4f36ade4947bca1b033e1382ee349536f41/images/logo.png" alt="Logo">
+    <img src="https://github.com/smartinternz02/SBSPS-Challenge-10306-Autonomous-Tagging-Of-Stack-Overflow-Questions/blob/master/images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Autonomous Tagging</h3>
@@ -44,10 +44,10 @@
     <br />
     <a href="https://researchengines.azurewebsites.net/">Live Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Demo Video</a>
-    ·<!--
-    *** <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-    >
+    <a href="https://drive.google.com/file/d/1o_xU8GcpNILFlGJ3lgklm-Bw5axFD1L2/view?usp=sharing">Video Presentation</a>
+    ·
+    <a href="https://docs.google.com/presentation/d/19iOE6kcStD0LpSkyi27IhWHYF_J2RpAwxLAS0Hz97ug/edit?usp=sharing">Presentation</a>
+    
   </p>
 </div>
 
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/smartinternz02/SBSPS-Challenge-10306-Autonomous-Tagging-Of-Stack-Overflow-Questions/blob/8ec0a4c0c75d5d652e084750eb8cd7e5855d2696/images/Screenshot%202023-08-31%20194258.png" alt="Logo">
 <div align="left">
 Welcome to our innovative project! We're excited to introduce an autonomous tagger for questions on Stack Overflow.
 
@@ -165,36 +165,20 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">Top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion to improve this, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<div align="left">
+  Done By:
+</br>
+  Karan Punjabi
+  Keegan Feranndes
+  Anujit Ghosh
+</div>
+</div>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,30 +193,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+IBM X Smartinterz
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
